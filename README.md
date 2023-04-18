@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working at General Motors as a Optimizer Processes in Finance with power bi and Knime.<br>I'm looking to collaborate with people who wants to learn and share their knowledge and also solidify new relationships<br>I'm currently learning to create full-stack web applications with laravel sail docker and react<br>If you really want to share experiences, knowledge or you just to increase your network, feel free to message
+I'm currently working at General Motors as a Optimizer Processes in Finance with power bi and Knime.<br>I'm looking to collaborate with people who wants to learn and share their knowledge and also solidify new relationships<br>I'm currently learning to create full-stack web applications with laravel sail docker and react<br>If you really want to share experiences, knowledge or you just to increase your network, feel free to message me. <br> I want to prepare myself as a DevOps engineer.
 
 
 ## 🌐 Socials:
