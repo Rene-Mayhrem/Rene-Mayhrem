@@ -1,5 +1,5 @@
 # 💫 About Me:
-ighly motivated Fullstack Developer with 1+ years of experience building innovative and scalable software solutions. Skilled in Java, Spring Boot, Express, Angular, and React, with a proven ability to design, develop, and deploy high-performance applications across various domains including finance and banking.
+Highly motivated Fullstack Developer with 1+ years of experience building innovative and scalable software solutions. Skilled in Java, Spring Boot, Express, Angular, and React, with a proven ability to design, develop, and deploy high-performance applications across various domains including finance and banking.
 Additionally, I've actively expanded my skill-set in cloud computing by completing courses and earning badges offered by Google Learning on building applications within Google Cloud Platform (GCP).
 
 
