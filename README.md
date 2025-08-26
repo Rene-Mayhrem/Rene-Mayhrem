@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Rene Mayhrem
+# 👋 Hi, I’m Rene Cruz
 ### Software Developer & SRE | Java Spring | DevOps | Cloud Enthusiast
 
 💫 **About Me:**  
