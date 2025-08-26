@@ -77,9 +77,9 @@ Software Developer & SRE with **2+ years of experience** in Java Spring, DevOps,
 ---
 
 ## 🏆 Certifications & Achievements
-- Google Cloud Platform - Computing Foundations: Networking and Security [badge](https://www.cloudskillsboost.google/public_profiles/cbe98117-7123-473d-8485-1ebe82a4d174/badges/12837753)
-- Google Cloud Platform - Computing Foundations: Infrastructure [badge](https://www.cloudskillsboost.google/public_profiles/cbe98117-7123-473d-8485-1ebe82a4d174/badges/12791701)
-- Google Cloud Platform - Big Data and Machine Learning fundamentals [badge](https://www.cloudskillsboost.google/public_profiles/cbe98117-7123-473d-8485-1ebe82a4d174/badges/8314449)
+- [Google Cloud Platform - Computing Foundations: Networking and Security](https://www.cloudskillsboost.google/public_profiles/cbe98117-7123-473d-8485-1ebe82a4d174/badges/12837753)
+- [Google Cloud Platform - Computing Foundations: Infrastructure](https://www.cloudskillsboost.google/public_profiles/cbe98117-7123-473d-8485-1ebe82a4d174/badges/12791701)
+- [Google Cloud Platform - Big Data and Machine Learning fundamentals](https://www.cloudskillsboost.google/public_profiles/cbe98117-7123-473d-8485-1ebe82a4d174/badges/8314449)
 - Oracle Cloud Infrastructure (OCI) Experience
 - AWS Certified Solutions Architect – In Progress
 - Kubernetes CKA – In Progress
