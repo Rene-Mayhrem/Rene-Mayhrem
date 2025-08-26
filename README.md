@@ -65,13 +65,3 @@ Previously, I have experience as a Fullstack Developer building innovative solut
 <img alt="Machine Learning" src="https://img.shields.io/badge/Machine%20Learning-%23FF6F61.svg?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
 </p>
 
----
-
-## 📊 GitHub Stats
-<p align="center">
-<img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Rene-Mayhrem&theme=dark&show_icons=true&count_private=true&include_all_commits=true"/>
-<img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rene-Mayhrem&theme=dark&layout=compact"/>
-<img alt="GitHub Trophies" src="https://github-profile-trophy.vercel.app/?username=Rene-Mayhrem&theme=radical"/>
-</p>
-
-
