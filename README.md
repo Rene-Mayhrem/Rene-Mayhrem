@@ -1,24 +1,71 @@
-# 💫 About Me:
-Highly motivated Fullstack Developer with 1+ years of experience building innovative and scalable software solutions. Skilled in Java, Spring Boot, Express, Angular, and React, with a proven ability to design, develop, and deploy high-performance applications across various domains including finance and banking.
-Additionally, I've actively expanded my skill-set in cloud computing by completing courses and earning badges offered by Google Learning on building applications within Google Cloud Platform (GCP).
+# 👋 Hi, I’m Rene Mayhrem
+### Software Developer & SRE | Java Spring | DevOps | Cloud Enthusiast
 
+💫 **About Me:**  
+Software Developer & SRE with **2+ years of experience** in **Java Spring, DevOps, and cloud environments**. Skilled in building and maintaining **scalable, high-performance applications**, with a focus on **automation, reliability, and continuous delivery**. Passionate about bridging development and operations to enhance **scalability, security, and availability**.  
+Currently working at **Oracle** as an SRE and DevOps.
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/mayhrem#7865) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/rene.cruz01233) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mayhrem) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/renecruz-1202r/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Mayhrem1) 
-
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=java&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=plastic&logo=markdown&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54)![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=plastic&logo=azure-devops&logoColor=white) ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=plastic&logo=google-cloud&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=plastic&logo=bootstrap&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=plastic&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=plastic&logo=SASS&logoColor=white)![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=plastic&logo=jenkins&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=plastic&logo=nginx&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=plastic&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=plastic&logo=postgresql&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=plastic&logo=blender&logoColor=white)  ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=plastic&logo=Trello&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=plastic&logo=Raspberry-Pi),![Postman](https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white) 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Rene-Mayhrem&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Rene-Mayhrem&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Rene-Mayhrem&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Rene-Mayhrem&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+Previously, I have experience as a Fullstack Developer building innovative solutions with **Java, Spring Boot, Express, Angular, React**, and expanding cloud skills via **Google Cloud Platform (GCP)**.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Rene-Mayhrem&icon=2&color=4)](https://visitcount.itsvg.in)
+
+## 🌐 Connect with Me
+<p align="left">
+<a href="https://discord.gg/mayhrem#7865"><img alt="Discord" src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white"/></a>
+<a href="https://www.facebook.com/rene.cruz01233"><img alt="Facebook" src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white"/></a>
+<a href="https://instagram.com/mayhrem"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/renecruz-1202r/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"/></a>
+<a href="https://twitter.com/Mayhrem1"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white"/></a>
+</p>
+
+---
+
+## 💻 Tech Stack
+<p align="left">
+<img alt="Java" src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/>
+<img alt="Spring Boot" src="https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white"/>
+<img alt="Python" src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white"/>
+<img alt="Golang" src="https://img.shields.io/badge/Go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white"/>
+<img alt="Terraform" src="https://img.shields.io/badge/Terraform-%2357B6E5.svg?style=for-the-badge&logo=terraform&logoColor=white"/>
+<img alt="Docker" src="https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"/>
+<img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-%23326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+<img alt="AWS" src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+<img alt="Azure" src="https://img.shields.io/badge/Azure-%230072C6.svg?style=for-the-badge&logo=azure&logoColor=white"/>
+<img alt="GCP" src="https://img.shields.io/badge/GCP-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white"/>
+<img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>
+<img alt="Postgres" src="https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img alt="MySQL" src="https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+<img alt="Jenkins" src="https://img.shields.io/badge/Jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white"/>
+<img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white"/>
+<img alt="CI/CD" src="https://img.shields.io/badge/CI/CD-%23F05032.svg?style=for-the-badge&logo=github&logoColor=white"/>
+</p>
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+<img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Rene-Mayhrem&theme=dark&hide_border=false&include_all_commits=true&count_private=true&hide_title=false&show_icons=true"/>
+<img alt="GitHub Stats Light" src="https://github-readme-stats.vercel.app/api?username=Rene-Mayhrem&theme=light&hide_border=false&include_all_commits=true&count_private=true&hide_title=false&show_icons=true"/>
+<img alt="Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=Rene-Mayhrem&theme=dark&hide_border=false"/>
+<img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rene-Mayhrem&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/>
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+<p align="center">
+<img alt="GitHub Trophies" src="https://github-profile-trophy.vercel.app/?username=Rene-Mayhrem&theme=radical&no-frame=false&no-bg=false&margin-w=4"/>
+</p>
+
+---
+
+### ✍️ Random Dev Quote
+<p align="center">
+<img alt="Quote" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"/>
+</p>
+
+---
+
+[![Visitor Count](https://visitcount.itsvg.in/api?id=Rene-Mayhrem&icon=2&color=4)](https://visitcount.itsvg.in)
 
