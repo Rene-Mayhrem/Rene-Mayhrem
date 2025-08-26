@@ -58,6 +58,12 @@ Software Developer & SRE with **2+ years of experience** in Java Spring, DevOps,
 
 ---
 
+## 🏆 My Github History
+
+![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
+
+---
+
 ## 🚀 Currently Learning
 ![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?style=plastic&logo=go&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326CE5.svg?style=plastic&logo=kubernetes&logoColor=white)
