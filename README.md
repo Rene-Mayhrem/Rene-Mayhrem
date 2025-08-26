@@ -60,7 +60,7 @@ Software Developer & SRE with **2+ years of experience** in Java Spring, DevOps,
 
 ## 🏆 My Github History
 
-![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Rene-Mayhrem/Rene-Mayhrem/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
