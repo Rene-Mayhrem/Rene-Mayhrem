@@ -1,5 +1,12 @@
-# 👋 Hi, I’m Rene Mayhrem
+# 🌟 Hi, I’m Rene Mayhrem
 ### Software Developer & SRE | Java Spring | DevOps | Cloud Enthusiast
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Software-Developer-blue?style=for-the-badge&logo=appveyor&logoColor=white&animation=spin"/>
+  <img src="https://img.shields.io/badge/SRE-DevOps-green?style=for-the-badge&logo=jenkins&logoColor=white&animation=spin"/>
+  <img src="https://img.shields.io/badge/Cloud-AWS-orange?style=for-the-badge&logo=amazon-aws&logoColor=white&animation=spin"/>
+  <img src="https://img.shields.io/badge/Cloud-GCP-blue?style=for-the-badge&logo=google-cloud&logoColor=white&animation=spin"/>
+</p>
 
 💫 **About Me:**  
 Software Developer & SRE with **2+ years of experience** in **Java Spring, DevOps, and cloud environments**. Skilled in building and maintaining **scalable, high-performance applications**, with a focus on **automation, reliability, and continuous delivery**. Passionate about bridging development and operations to enhance **scalability, security, and availability**.  
@@ -38,7 +45,6 @@ Previously, I have experience as a Fullstack Developer building innovative solut
 <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
 <img alt="Jenkins" src="https://img.shields.io/badge/Jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white"/>
 <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white"/>
-<img alt="CI/CD" src="https://img.shields.io/badge/CI/CD-%23F05032.svg?style=for-the-badge&logo=github&logoColor=white"/>
 </p>
 
 ---
@@ -47,5 +53,15 @@ Previously, I have experience as a Fullstack Developer building innovative solut
 <p align="center">
 <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Rene-Mayhrem&theme=dark&hide_border=false&include_all_commits=true&count_private=true&show_icons=true"/>
 <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rene-Mayhrem&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/>
+</p>
+
+---
+
+## 🚀 Currently Learning
+<p align="left">
+<img alt="Go" src="https://img.shields.io/badge/Go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white"/>
+<img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-%23326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+<img alt="AWS" src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+<img alt="Machine Learning" src="https://img.shields.io/badge/Machine%20Learning-%23FF6F61.svg?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
 </p>
 
