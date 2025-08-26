@@ -45,14 +45,7 @@ Previously, I have experience as a Fullstack Developer building innovative solut
 
 ## 📊 GitHub Stats
 <p align="center">
-<img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Rene-Mayhrem&theme=dark&hide_border=false&include_all_commits=true&count_private=true&hide_title=false&show_icons=true"/>
-<img alt="Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=Rene-Mayhrem&theme=dark&hide_border=false"/>
+<img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Rene-Mayhrem&theme=dark&hide_border=false&include_all_commits=true&count_private=true&show_icons=true"/>
 <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rene-Mayhrem&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/>
 </p>
 
----
-
-## 🏆 GitHub Trophies
-<p align="center">
-<img alt="GitHub Trophies" src="https://github-profile-trophy.vercel.app/?username=Rene-Mayhrem&theme=radical&no-frame=false&no-bg=false&margin-w=4"/>
-</p>
