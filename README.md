@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Rene Cruz
+# 👋 Hi, I’m Rene Mayhrem
 ### Software Developer & SRE | Java Spring | DevOps | Cloud Enthusiast
 
 💫 **About Me:**  
@@ -46,7 +46,6 @@ Previously, I have experience as a Fullstack Developer building innovative solut
 ## 📊 GitHub Stats
 <p align="center">
 <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Rene-Mayhrem&theme=dark&hide_border=false&include_all_commits=true&count_private=true&hide_title=false&show_icons=true"/>
-<img alt="GitHub Stats Light" src="https://github-readme-stats.vercel.app/api?username=Rene-Mayhrem&theme=light&hide_border=false&include_all_commits=true&count_private=true&hide_title=false&show_icons=true"/>
 <img alt="Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=Rene-Mayhrem&theme=dark&hide_border=false"/>
 <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rene-Mayhrem&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/>
 </p>
@@ -57,15 +56,3 @@ Previously, I have experience as a Fullstack Developer building innovative solut
 <p align="center">
 <img alt="GitHub Trophies" src="https://github-profile-trophy.vercel.app/?username=Rene-Mayhrem&theme=radical&no-frame=false&no-bg=false&margin-w=4"/>
 </p>
-
----
-
-### ✍️ Random Dev Quote
-<p align="center">
-<img alt="Quote" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"/>
-</p>
-
----
-
-[![Visitor Count](https://visitcount.itsvg.in/api?id=Rene-Mayhrem&icon=2&color=4)](https://visitcount.itsvg.in)
-
