@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Rene Mayhrem
+# 👋 Hi, I’m Rene Cruz
 
 <!-- Animated Scrolling Tech Stack Badges -->
 <p align="center">
